@@ -1,0 +1,3 @@
+
+DATABASE_URL = "write_database_url_here"
+DATABASE_NAME = "write_here_name_of_db"
